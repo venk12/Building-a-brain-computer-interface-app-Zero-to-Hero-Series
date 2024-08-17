@@ -1,0 +1,1 @@
+In this "Zero to Hero" series, you will embark on a journey to create a cutting-edge Brain-Computer Interface (BCI) app from scratch. Whether you're a curious beginner or an experienced developer, this series will guide you through the fascinating world of BCI technology, where human thoughts and computer systems seamlessly interact.
